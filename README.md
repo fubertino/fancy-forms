@@ -119,8 +119,5 @@ Thank you for contributing to Fancy-Form! Your contributions help make this proj
 
 
 ## License
-
 Fancy-Form is open-source software licensed under the BSD license. See the LICENSE.txt file for more information.
 Contact
-
-Thank you for using Fancy-Form! We hope it helps you create and manage your forms effortlessly.
