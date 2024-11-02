@@ -55,7 +55,7 @@ rails db:seed
 
 Once the application is up and running, you can start creating forms by following these steps:
 
-* Sign up or log in: Create an account or log in if you alread 4
+* Sign up or log in: Create an account or log in if you alread 5
 
 * Create a new form:
     Navigate to the dashboard and click on "Create New Form." Use the drag-and-drop interface to add fields to your form.
@@ -64,7 +64,7 @@ Once the application is up and running, you can start creating forms by followin
     Use the customization options to tailor your form's appearance and behavior.
 
 *    Publish your form:
-    Once your form is read 4
+    Once your form is read 5
 
  *   Analyze submissions:
     Use the analytics dashboard to monitor responses and generate reports.
@@ -75,7 +75,7 @@ Once the application is up and running, you can start creating forms by followin
 
 When filing an issue, please follow these guidelines to help us understand your problem and address it promptly:
 
-1. **Search for existing issues:** Before opening a new issue, please check the existing issues to see if your problem or feature request has alread 4
+1. **Search for existing issues:** Before opening a new issue, please check the existing issues to see if your problem or feature request has alread 5
 
 2. **Use a descriptive title:** Provide a clear and descriptive title for your issue to help others understand what it is about.
 
@@ -121,4 +121,4 @@ Thank you for contributing to Fancy-Form! Your contributions help make this proj
 Fancy-Form is open-source software licensed under the BSD license. See the LICENSE.txt file for more information.
 Contact
 
-read 4
+read 5
